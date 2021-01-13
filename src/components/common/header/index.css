@@ -1,0 +1,28 @@
+
+.header-container {
+    width:100%;
+    height: 7vh;
+    max-height: 7vh;
+    background-image: "https://i.blogs.es/764b89/rick-y-morty/1366_521.jpg";
+    color: rgb(150, 143, 211);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+    .ul {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        list-style-type: none;
+    }
+        .li {
+            transition: all 0.3s;
+        }
+
+    
+
+    

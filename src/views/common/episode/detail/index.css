@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: space-between;
+    
+  }
+
+  .card{
+      width: 500px;
+  }
